@@ -1,3 +1,10 @@
+# Project	: Text Mining (CS474)
+# Task 		: Sentiment analysis (reply)
+# Name 		: reply_sent.py
+# Creater 	: Giwon Hong
+# Date 		: 2018.08.31
+
+
 import os
 from google.cloud import language
 from google.cloud.language import enums as lan_enums
