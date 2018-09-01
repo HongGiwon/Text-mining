@@ -1,3 +1,9 @@
+# Project	: Text Mining (CS474)
+# Task 		: Article anaysis (keywords)
+# Name 		: search.py
+# Creater 	: Giwon Hong
+# Date 		: 2018.08.31
+
 import os
 
 dictfilelist = {}
